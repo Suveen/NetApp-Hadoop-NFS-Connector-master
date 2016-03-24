@@ -3,7 +3,7 @@ NetApp-Hadoop-NFS-Connector
 ##DISCLAIMER
 
 This is a NetApp NFS Connector project done by Ennovar at Wichita State University. The code is still being tested for Hadoop. 
-The original code is property of NetApp. 
+The original code is property of NetApp and can be viewed at https://github.com/NetApp/NetApp-Hadoop-NFS-Connector  
 
 Overview
 -------------------------------------
