@@ -1,4 +1,4 @@
-NetApp-NFS-Connector-for-Spark
+NetApp NFS Connector for Apache Spark
 ===========================
 #####**DISCLAIMER**
 
