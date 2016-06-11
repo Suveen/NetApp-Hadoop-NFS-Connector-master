@@ -1,4 +1,4 @@
-NetApp-Hadoop-NFS-Connector (Ennovar Project)
+NetApp-NFS-Connector-for-Spark (Ennovar@WSU Project)
 ===========================
 #####**DISCLAIMER**
 
