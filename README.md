@@ -2,7 +2,7 @@ NetApp-NFS-Connector-for-Spark (Ennovar at WSU)
 ===========================
 #####**DISCLAIMER**
 
-**The NetApp NFS connector for Spark project is funded by NetApp, CA. The project is done in Ennovar at Wichita State University. NetApp, CA provided the supports (code, guidelines, etc.) to implement/test Hadoop/Spark systems. The original code is property of NetApp and can be viewed by following the URL: https://github.com/NetApp/NetApp-Hadoop-NFS-Connector or by simply selecting the forked repository _NetApp-Hadoop-NFS-Connector_ under this username to be redirected to the NetApp's GitHub project.** 
+**The NetApp NFS connector for Spark project is funded by NetApp, CA. The project is done in Ennovar at Wichita State University. NetApp provided the supports (code, guidelines, etc.) to implement/test Hadoop/Spark systems. The original code is property of NetApp and can be viewed by following the URL: https://github.com/NetApp/NetApp-Hadoop-NFS-Connector or by simply selecting the forked repository _NetApp-Hadoop-NFS-Connector_ under this username to be redirected to the NetApp's GitHub project.** 
 
 Overview
 -------------------------------------
