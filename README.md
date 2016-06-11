@@ -1,4 +1,4 @@
-NetApp-NFS-Connector-for-Spark (Ennovar at WSU)
+NetApp-NFS-Connector-for-Spark
 ===========================
 #####**DISCLAIMER**
 
